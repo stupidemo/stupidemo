@@ -1,14 +1,12 @@
 ## Hi there! ヾ(•ω•`)o
 
-I’m Vlad, a python developer who learned himself and is now looking to work backend, customize Linux and do creative coding.  
-I like to make small tools that are user-friendly, and by the same token I like to artistically experiment with different, even unusual styles, and I’m also keen on figuring out how things work under the hood.  
+I am Vlad, a self, taught Python developer who is interested in backend, Linux customization, and creative coding.
 
-I’m also into visual creativity: I draw in a unique style, edit photos in unconventional ways, and am a big fan of blending the retro late 00s aesthetics with the modern ones.  
-I like projects that are a little different - something that is a mix of technical exploration and personal expression.  
+I am working on small user, friendly tools, trying out different visual styles, and I am very interested in the general understanding of the working of things.
 
-Without code, I’m a fan of Chinese tea, a lover of unusual concepts, and anything that helps me grow creatively and mentally.  
+I also draw, do photo editing in unique ways, and I am very passionate about blending late, 00s retro aesthetics with modern ideas. Besides coding, I am a fan of Chinese tea and some unusual creative concepts.
 
-At the moment, I’m really into getting a deep understanding of Python and Linux, and at the same time, I’m slowly starting to branch out into new tools, libraries, and coming up with weird ideas that make me curious.
+At the moment my primary focus is on deep learning of Python and Linux while I keep on exploring new tools, libraries, and ideas that challenge my curiosity.
 
 
 ---
